@@ -1,3 +1,20 @@
 {
-    
+  "users": [
+    {
+      "name": "deepu",
+      "email": "deepu@gmail.com",
+      "mobile": "5467894523",
+      "vehicle": "KL-03-A-7658",
+      "password": "deepu123",
+      "id": 1
+    },
+    {
+      "name": "Annie",
+      "email": "annie@gmail.com",
+      "mobile": "56785435689",
+      "vehicle": "KL-03-A-5678",
+      "password": "567894",
+      "id": 2
+    }
+  ]
 }

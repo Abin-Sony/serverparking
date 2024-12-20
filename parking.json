@@ -16,5 +16,17 @@
       "password": "567894",
       "id": 2
     }
+  ],
+  "bookings": [
+    {
+      "name": "deepu",
+      "city": "forum mall",
+      "mobileNum": "5467894523",
+      "vehicleModel": "maruthi",
+      "vehicleNum": "KL-03-A-7658",
+      "entryTime": "2024-12-20T12:00",
+      "exitTime": "2024-12-20T17:00",
+      "id": 1
+    }
   ]
 }
